@@ -6,6 +6,15 @@
         <description>Signed SetRelay for Mac updates.</description>
         <language>en</language>
         <item>
+            <title>0.2.5</title>
+            <pubDate>Mon, 24 Aug 2026 23:16:05 -0400</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/austinpresley/SetRelay-Updates/releases/download/mac-v0.2.5/SetRelay-0.2.5-mac.zip" length="12925930" type="application/octet-stream" sparkle:edSignature="KIWrUYr4pCm8tOHEzZFtjzKM1vH0ZO10QTuyTtq05wvc4rELZtVYVVF0Ir1HuGPF5/stn1aKJRGN6lMIO6ulBw=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Mon, 24 Aug 2026 22:07:01 -0400</pubDate>
             <sparkle:version>4</sparkle:version>
