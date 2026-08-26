@@ -9,10 +9,10 @@
             <title>0.2.9</title>
             <pubDate>Tue, 25 Aug 2026 15:54:02 -0400</pubDate>
             <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/austinpresley/SetRelay-Updates/releases/download/mac-v0.2.9/SetRelay-0.2.9-mac.zip" length="13039101" type="application/octet-stream" sparkle:edSignature="Y+aoJyzxAa79yl+owel0/gyzMdR6JJW78eMZQkJniADcJ+7Xqm5XB9aMcJ5UFRQ0qovBnE6lEjB4fCyJAZt2Dg=="/>
+            <enclosure url="https://github.com/austinpresley/SetRelay-Updates/releases/download/mac-v0.3.0/SetRelay-0.3.0-mac.zip" length="13055839" type="application/octet-stream" sparkle:edSignature="vRnsTxbbxplpZPCTe3M6zSpZFBVUPA6LLlF93oQegI7jiZxCtonEWEN1HEoAWixVgkFu6s5ligbqjhWO9FmjBA=="/>
         </item>
         <item>
             <title>0.2.8</title>
