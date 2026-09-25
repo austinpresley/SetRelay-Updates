@@ -6,6 +6,15 @@
         <description>Signed SetRelay for Mac updates.</description>
         <language>en</language>
         <item>
+            <title>0.3.13</title>
+            <pubDate>Fri, 25 Sep 2026 14:34:49 -0400</pubDate>
+            <sparkle:version>70</sparkle:version>
+            <sparkle:shortVersionString>0.3.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/austinpresley/SetRelay-Updates/releases/download/mac-v0.3.13/SetRelay-0.3.13-mac.zip" length="14362673" type="application/octet-stream" sparkle:edSignature="FYZj6Gk1cnl9ZS+B4MIuiMVtGyROausxH/FvHuH8MpPdks2yH04crwSigaDfHy9ZbRn7wvyU8o1J9CAlSEuNBQ=="/>
+        </item>
+        <item>
             <title>0.3.12</title>
             <pubDate>Thu, 24 Sep 2026 22:51:42 -0400</pubDate>
             <sparkle:version>69</sparkle:version>
@@ -22,15 +31,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/austinpresley/SetRelay-Updates/releases/download/mac-v0.3.11/SetRelay-0.3.11-mac.zip" length="13868682" type="application/octet-stream" sparkle:edSignature="6Clb+GmNA5UEVtbVJLwnOPuY7uQv3f0Gtji/vZjcoHbJbEYNqKsZ67P/ro2LRGhRM+pevrKyGzG7DzKBA0oXBA=="/>
-        </item>
-        <item>
-            <title>0.3.10</title>
-            <pubDate>Tue, 22 Sep 2026 02:02:35 -0400</pubDate>
-            <sparkle:version>67</sparkle:version>
-            <sparkle:shortVersionString>0.3.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/austinpresley/SetRelay-Updates/releases/download/mac-v0.3.10/SetRelay-0.3.10-mac.zip" length="13868628" type="application/octet-stream" sparkle:edSignature="7I8bHhzrpeQQP0A0+Q2EN0XZyIfua4pbTGtogNhZjEaXLusJaQQimWYd1aCGP0OAfGc21YGZHtvnvxXpIjGUCQ=="/>
         </item>
     </channel>
 </rss>
